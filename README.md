@@ -4,3 +4,9 @@
 为redeme添加了一行文字
 对redeme做的第三次修改
 在分支中第一次修改redeme
+#include <stdio.h>
+
+int main(){
+    printf("hello, cmy\n");
+    return 0;
+}
